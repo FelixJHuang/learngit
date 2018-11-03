@@ -1,2 +1,3 @@
 git is distributed  version system
 git is a software under the GPL
+git has a mutable index call stage
